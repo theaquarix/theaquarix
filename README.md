@@ -2,8 +2,6 @@
 
 ### DevOps | Python Backend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theaquarix&label=Profile views&color=0e75b6&style=flat" alt="theaquarix" /> </p>
-
 <p align="left"> <a href="https://twitter.com/theaquarix" target="blank"><img src="https://img.shields.io/twitter/follow/theaquarix?logo=twitter&style=for-the-badge" alt="theaquarix" /></a> </p>
 
 - 🌱 I'm currently learning **Python Backends**
