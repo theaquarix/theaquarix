@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Python Backends**
 
-- 📫 How to reach me **hello@musfiqrahman.com**
+- 📫 How to reach me **themusfiqwork@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://www.musfiqrahman.com](https://www.musfiqrahman.com)**
 
