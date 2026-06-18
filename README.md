@@ -7,8 +7,8 @@
 ---
 
 <div align="left">
-  <img src="https://img.shields.io/badge/FOLLOW-@THEAQUARIX-grey?style=for-the-badge&logo=github" alt="Follow @theaquarix on GitHub" />
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-green?style=for-the-badge" alt="Open Source Contributor" />
+  <a href="https://github.com/theaquarix"><img src="https://img.shields.io/badge/FOLLOW-@THEAQUARIX-grey?style=for-the-badge&logo=github" alt="Follow @theaquarix on GitHub" /></a>
+  <a href="https://github.com/theaquarix?tab=repositories"><img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-green?style=for-the-badge" alt="View open-source repositories" /></a>
 </div>
 
 ## 👨‍💻 About Me
@@ -19,14 +19,13 @@ Passionate about cloud orchestration, backend performance, and the intersection 
 
 - 💡 Mastering advanced Kubernetes networking and traffic management.
 - 🔨 Building an open-source tool for Kubernetes configuration management.
-- 🌱 Actively learning advanced Golang concurrency patterns.
+- 🌱 Deepening my Python backend development skills.
 
 ## 📫 Connect with Me
 
 <div align="left">
-  <a href="mailto:musfiqwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Musfiq Rahman" /></a>
+  <a href="mailto:themusfiqwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Musfiq Rahman" /></a>
   <a href="https://www.linkedin.com/in/theaquarix/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Musfiq Rahman on LinkedIn" /></a>
-  <a href="https://instagram.com/theaquarix"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@theaquarix on Instagram" /></a>
 </div>
 
 ## 🛠️ Languages and Tools
@@ -35,7 +34,6 @@ Passionate about cloud orchestration, backend performance, and the intersection 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
 
