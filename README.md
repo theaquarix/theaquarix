@@ -58,9 +58,9 @@ Passionate about cloud orchestration, backend performance, and the intersection 
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </div>
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theaquarix&show_icons=true&theme=dark" alt="TheAquarix's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaquarix&layout=compact&theme=dark" alt="TheAquarix's most-used languages" />
-</div>
+- **[TheAquarix Portfolio](https://github.com/theaquarix/theaquarix.github.io)** — A fast, responsive static portfolio built with semantic HTML and CSS, optimized for performance and SEO. **[View live site](https://theaquarix.github.io/)**
+- **[Python Basic Calculator](https://github.com/theaquarix/python-calculator-basic)** — A command-line calculator demonstrating Python backend logic, input validation, and error handling.
+
+➡️ **[Explore all my repositories](https://github.com/theaquarix?tab=repositories)**
